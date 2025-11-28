@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Egyptian Foods and Restaurants</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #d4af37;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #d4af37;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #d4af37;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Discover Egyptian Foods and Restaurants</h1>
+        <p>Explore the rich flavors of Egypt's cuisine and top dining spots.</p>
+    </header>
+    
+    <section id="foods">
+        <h2>Popular Egyptian Foods</h2>
+        <p>Egyptian cuisine blends Middle Eastern, Mediterranean, and African influences. Here are some must-try dishes:</p>
+        <ul>
+            <li><strong>Koshary</strong>: A hearty mix of rice, lentils, pasta, and tomato sauce, topped with fried onions and chickpeas. A national dish!</li>
+            <li><strong>Falafel</strong>: Deep-fried chickpea balls, often served in pita with tahini sauce.</li>
+            <li><strong>Molokhia</strong>: A green leafy stew made with jute leaves, served with rice and chicken or rabbit.</li>
+            <li><strong>Fatta</strong>: Rice with bread, topped with meat sauce and vinegar – a festive dish.</li>
+            <li><strong>Baklava</strong>: Sweet pastry filled with nuts and honey, a popular dessert.</li>
+        </ul>
+    </section>
+    
+    <section id="restaurants">
+        <h2>Recommended Restaurants in Egypt</h2>
+        <p>From Cairo to Alexandria, here are some top spots for authentic Egyptian food:</p>
+        <ul>
+            <li><strong>Koshary El Tahrir (Cairo)</strong>: Famous for koshary; affordable and iconic.</li>
+            <li><strong>Abou El Sid (Cairo)</strong>: Known for molokhia and traditional Egyptian meals.</li>
+            <li><strong>Fish Market (Alexandria)</strong>: Seafood-focused, try grilled fish with rice.</li>
+            <li><strong>Cairo Kitchen (Multiple Locations)</strong>: Modern take on Egyptian classics like stuffed pigeon.</li>
+            <li><strong>Sequoia (Cairo)</strong>: Upscale dining with views of the Nile, offering mezze and grills.</li>
+        </ul>
+        <p><em>Note</em>: Prices vary; check for halal options and local reviews on TripAdvisor or Google Maps.</p>
+    </section>
+    
+    <section id="tips">
+        <h2>Tips for Dining in Egypt</h2>
+        <ul>
+            <li>Visit during Ramadan for special iftar meals.</li>
+            <li>Try street food in markets like Khan el-Khalili for an authentic experience.</li>
+            <li>Pair meals with hibiscus tea (karkade) or mint tea.</li>
+            <li>Be mindful of spice levels – ask for "shwaya" (a little) if needed.</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 Egyptian Foods Guide. Enjoy your culinary journey!</p>
+    </footer>
+</body>
+</html>
